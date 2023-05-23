@@ -1,0 +1,29 @@
+1 - Nomes estranhos de variáveis, funções, arquivos e etc
+* renomear função
+* renomear variável
+* renomear arquivo
+
+2 - Linhas em branco
+* remover linhas em branco
+
+3 - Comentários
+* introduzir variável explicativa
+* introduzir função explicativa
+
+4 - Código morto
+* apagar código
+
+5 - Condições aninhadas, confusas, complexas, extensas
+* consolidar condicionais
+* extrair condição
+* introduzir cláusula guarda
+* introduzir ternário
+
+6 - números mágicos
+* extrair constantes
+
+7 - tratamento inadequado de erros
+* tratar erros de forma adequada
+
+8 - classe ou arquivo grande
+* divisões de responsabilidade
